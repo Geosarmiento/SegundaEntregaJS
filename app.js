@@ -22,6 +22,8 @@ document.addEventListener('DOMContentLoaded', () => {
         actualizarCarrito()
     }
 })
+
+
 //SEXTO PASO
 botonVaciar.addEventListener('click', () => {
     carrito.length = 0
